@@ -3,40 +3,21 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
+  ![Dart](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+  ![Go](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
+![React Badge](https://img.shields.io/badge/-React-61DBFB?style=flat-square&labelColor=black&logo=react&logoColor=61DBFB) ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&labelColor=black&logo=redux&logoColor=764ABC) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&labelColor=black&logo=javascript&logoColor=F7DF1E) ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&labelColor=black&logo=html5&logoColor=E34F26) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&labelColor=black&logo=css3&logoColor=1572B6) ![Sass Badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&labelColor=black&logo=sass&logoColor=CC6699) ![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&labelColor=black&logo=node.js&logoColor=339933) ![Express Badge](https://img.shields.io/badge/-Express-000000?style=flat-square&labelColor=black&logo=express&logoColor=fff) ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&labelColor=black&logo=mongodb&logoColor=47A248) ![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=flat-square&labelColor=black&logo=gatsby&logoColor=663399) ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&labelColor=black&logo=graphql&logoColor=E10098) ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&labelColor=black&logo=jest&logoColor=C21325) ![Testing Library Badge](https://img.shields.io/badge/-Testing%20Library-E33332?style=flat-square&labelColor=black&logo=testinglibrary&logoColor=E33332) ![Netlify Badge](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&labelColor=black&logo=netlify&logoColor=00C7B7) ![Heroku Badge](https://img.shields.io/badge/-Heroku-430098?style=flat-square&labelColor=black&logo=heroku&logoColor=430098) ![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&labelColor=black&logo=firebase&logoColor=FFCA28) ![AWS Badge]( https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+  
 
 <br/>
 
