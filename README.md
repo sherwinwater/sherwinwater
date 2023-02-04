@@ -44,10 +44,19 @@
 ![Postgres Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&labelColor=black&logo=mongodb&logoColor=47A248)
+![DynamoDB Badge](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white)
 ![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![Sequelize Badge](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&labelColor=black&logo=graphql&logoColor=E10098)
 ![Redis Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white)
+
+<p>DevOps</p>
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 
 <p>Cloud</p>
 
@@ -68,3 +77,4 @@
 ⭐️ From [sherwinwater](https://github.com/sherwinwater)
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
+<!-- https://ileriayo.github.io/markdown-badges/ -->
