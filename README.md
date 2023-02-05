@@ -91,7 +91,5 @@
 
 <br/>
 
-⭐️ From [sherwinwater](https://github.com/sherwinwater)
-
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
 <!-- https://ileriayo.github.io/markdown-badges/ -->
