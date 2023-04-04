@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-
+<!-- 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <p>Language</p>
 
@@ -91,5 +91,6 @@
 
 <br/>
 
-<!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
-<!-- https://ileriayo.github.io/markdown-badges/ -->
+ https://dev.to/envoy_/150-badges-for-github-pnk 
+ https://ileriayo.github.io/markdown-badges/ 
+-->
