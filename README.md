@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shuwen
+### Hi there 👋 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
